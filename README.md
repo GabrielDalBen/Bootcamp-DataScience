@@ -1,5 +1,4 @@
-# Bootcamp-DataScience
-
+<h1 align="center">Bootcamp-DataScience</h1>
 
 <p float="left">
   <p align="center">
